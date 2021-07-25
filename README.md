@@ -1,4 +1,4 @@
-# Off-Line-Examination-System-using-C
+# Off-Line-Examination-System-using-C#
 
 It was a joint project with my teammate Saikat Sharma in 3rd year of my university life. https://github.com/SaikatS
 
