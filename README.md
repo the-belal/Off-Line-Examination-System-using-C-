@@ -2,7 +2,7 @@
 
 It was a joint project with my teammate [Saikat Sharma](https://github.com/Saikat-S) in 3rd year of my university life.
 
-About The Project: 
+## About The Project: 
 
 --> It is an **offline Examination system**
 
@@ -10,14 +10,14 @@ About The Project:
 
 --> Both user & teacher can easily use the system
 
-Tools:
+## Tools:
 
 --> Visual Studio (C#)
 
 --> SQL Server Management Studio
 
 
-Features:
+## Features:
 
 --> Multiple choice Question.
 
