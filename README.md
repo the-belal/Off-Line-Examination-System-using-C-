@@ -1,12 +1,12 @@
 # Off-Line-Examination-System-using-C#
 
-It was a joint project with my teammate [Saikat Sharma] (https://github.com/Saikat-S) in 3rd year of my university life.
+It was a joint project with my teammate [Saikat Sharma](https://github.com/Saikat-S) in 3rd year of my university life.
 
 About The Project: 
 
---> It is an offline Examination system
+--> It is an **offline Examination system**
 
---> User will be able to seat for offline assesment
+--> User will be able to seat for **offline assesment**
 
 --> Both user & teacher can easily use the system
 
